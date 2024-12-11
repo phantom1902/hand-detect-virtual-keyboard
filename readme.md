@@ -1,4 +1,4 @@
-# <mark><big>Hand Detector Virtual Keyboard -- HDKB</big><mark>
+# <mark><big>Hand Detect Virtual Keyboard -- HDKB</big><mark>
   
 ---
   
@@ -59,9 +59,9 @@ opencv-python
 ## 作者&联系方式（Author & Contact）
 
 ##### ***Allen Lee***
-+ dutlzl@mail.dlut.edu.cn  
++ 220245562@seu.edu.cn  
 ##### ***John Yu*** 
-+ 209359649@mail.dlut.edu.cn
++ 220245645@seu.edu.cn
 ##### ***Rocket L*** 
 + 2858865887@qq.con
 
